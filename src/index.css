@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400&display=swap');
+:root {
+  --main: #2F4858;
+  --white:#fff;
+  --secondary:#1C6E7D;
+  --bluelight:#039590;
+  --green:  #9BDE7E;
+  --green-20:#4BBC8E;
+  --lightGray: #9BAEBC;
+  --lightGrayDark: #677987;
+  --Oldgreen:#0a8670;
+  --table-text:#70EBB3;
+ 
+}
+ 
+/* @font-face {
+  font-family: iran;
+  src: url("../assets/iran.ttf");
+} */
+
+
+
+
+body {
+  /* background-color: #c9d6ff;
+  background: linear-gradient(to right, #e2e2e2, #C6FCEC); */
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
